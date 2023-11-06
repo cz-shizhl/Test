@@ -36,12 +36,12 @@ a course that not only safeguards IR’s continued relevance and vitality but al
 
 ## Organisers
 
-**Leif Azzopardi**  University of Strathclyde
-**Charlie Clarke** University of Waterloo
-**Paul Kantor** University of Wisconsin Madison
-**Bhaskar Mitra** Microsoft Research 
-**Johanne Trippas** RMIT University
-**Zhaochun Ren** Leiden University
+**Leif Azzopardi**, University of Strathclyde
+**Charlie Clarke**, University of Waterloo
+**Paul Kantor**, University of Wisconsin Madison
+**Bhaskar Mitra**, Microsoft Research 
+**Johanne Trippas**, RMIT University
+**Zhaochun Ren**, Leiden University
 
 
 
