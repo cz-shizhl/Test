@@ -6,7 +6,7 @@ description: ""
 # The Search Futures Workshop
 
 ***Leif Azzopardi¹, Charlie Clarke², Paul Kantor³, Bhaskar Mitra⁴, Johanne Trippas⁵, and Zhaochun Ren⁶***
-<p style="text-align:center; font-size:16px;font-weight:900;">¹ University of Strathclyde,UK.<br>² University of Waterloo, Canada.<br> ³ Rutgers University, USA.<br>⁴ Microsoft Research, Canada. <br>⁵ RMIT University, Australia.<br>⁶ Leiden University, Netherlands.</p>
+<p style="text-align:center; font-size:8px;font-weight:900;">¹ University of Strathclyde,UK.<br>² University of Waterloo, Canada.<br> ³ Rutgers University, USA.<br>⁴ Microsoft Research, Canada. <br>⁵ RMIT University, Australia.<br>⁶ Leiden University, Netherlands.</p>
 
 **Abstract**. The field and community of Information Retrieval (IR) are changing and evolving in response to the latest developments and ad- vances in Artificial Intelligence (AI) and research culture. As the field and community re-oriented and re-consider its positioning within com- puting and information sciences more generally – it is timely to gather and discuss more seriously our field’s vision for the future – the chal- lenges and threats that the community and field faces – along with the bold new research questions and problems that are arising and emerging as we re-imagine search. This workshop aims to provide a forum for the IR community to voice and discuss their concerns and pitch proposals for building and strengthening the field and community.
 
