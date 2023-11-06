@@ -4,7 +4,7 @@ description: ""
 ---
 
 
-### Introduction to The Search Futures Workshop (ECIR2024)
+## Introduction to The Search Futures Workshop (ECIR2024)
 
 The field of Information Retrieval (IR) is undergoing a profound transformation, spurred by the continual evolution and breakthroughs in the realm of artificial intelligence and the broader changing research landscape. This reformation period finds our field and community in a state of introspection, as we contemplate and reevaluate our role and significance within the broader context of computing and information sciences. This juncture in our journey serves as an opportune moment to convene and engage in a deep and purposeful dialogue concerning the future trajectory of our field. We must collectively confront the myriad challenges and potential threats that loom on the horizon, all while embracing the newfound opportunities and bold research inquiries that emerge as we embark on a re-imagined quest for the next generation “memex machine.
 
@@ -14,7 +14,7 @@ As we stand at the intersection of technological innovation and scholarly intros
 
 In our pursuit of “search futures”, this workshop aims to provide the first of several forums, for the community to discuss and contribute to our collective agenda for the research directions and field. We hope that together, we can chart a course that not only safeguards IR’s continued relevance and vitality but also propels it into uncharted territories of discovery and exploration.
 
-### List of Topics
+## List of Topics
 
   - Can IR further optimize workplace productivity?
 - IR ethics, trust and responsibility
@@ -32,7 +32,7 @@ In our pursuit of “search futures”, this workshop aims to provide the first 
 
 <!-- ​	<img src="1.jpg" style="width:80%;" /> -->
 
-### Organisers
+## Organisers
 
 **Leif Azzopardi**, University of Strathclyde
 
