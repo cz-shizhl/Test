@@ -3,7 +3,7 @@ layout: page
 description: ""
 ---
 
-## Call for contribution
+## ECIR 2023
 
 <!-- ***Leif Azzopardi¹, Charlie Clarke², Paul Kantor³, Bhaskar Mitra⁴, Johanne Trippas⁵, and Zhaochun Ren⁶***
 <p style="text-align:center; font-size:13px;font-weight:900;">¹ University of Strathclyde,UK.<br>² University of Waterloo, Canada.<br> ³ Rutgers University, USA.<br>⁴ Microsoft Research, Canada. <br>⁵ RMIT University, Australia.<br>⁶ Leiden University, Netherlands.</p> -->
@@ -38,17 +38,17 @@ a course that not only safeguards IR’s continued relevance and vitality but al
   - What is the future of results presentation?
 
 
-​	<img src="1.jpg" style="width:80%;" />
+<!-- ​	<img src="1.jpg" style="width:80%;" /> -->
 
 ## 4  Organisers
 
-To run the workshop, we have six organizers, five of whom can confirm that they will attend ECIR in person. Our organization team aims to bring together the IR Oldies with the up-and-coming stars in our field from industry, academia, and around the globe.
+<!-- To run the workshop, we have six organizers, five of whom can confirm that they will attend ECIR in person. Our organization team aims to bring together the IR Oldies with the up-and-coming stars in our field from industry, academia, and around the globe. -->
 
-------
+<!-- ------
 
 <font size = 1><b>⁸ See https://en.wikipedia.org/wiki/List_of_unsolved_problems_in\_linguistics</b></font>
 
-------
+------ -->
 
 
 
@@ -64,12 +64,6 @@ To run the workshop, we have six organizers, five of whom can confirm that they 
 
 **Zhaochun Ren** Leiden University
 
-
-### 4.1 Invited / Selected Speakers and Maximising Diversity
-
-To select the speakers for the workshop, we will have an open call for speakers through the standard channels (i.e., Slack, SIGIR and other mailing lists), as well as personally inviting a diverse range of participants who are core to the community, have left the community, or are new to the community. The workshop organisers will act as the programme committee to curate and select speakers. We will aim to select between 6–12 speakers to pitch their ideas for the future of search. We hope to gather a mixture of old, new, fringe, rebellious, and passionate researchers and practitioners from a range of backgrounds.
-
-During the introduction to the workshop, we will summarise the views cap- tured within the position statements to allow participants to vote on and discuss other topics not represented by our selected speakers. These position statements will also be summarised in the workshop report so that others can continue the conversation – if not fully discussed here.
 
 
 
