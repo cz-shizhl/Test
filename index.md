@@ -5,12 +5,6 @@ description: ""
 
 ## ECIR 2023
 
-<!-- ***Leif Azzopardi¹, Charlie Clarke², Paul Kantor³, Bhaskar Mitra⁴, Johanne Trippas⁵, and Zhaochun Ren⁶***
-<p style="text-align:center; font-size:13px;font-weight:900;">¹ University of Strathclyde,UK.<br>² University of Waterloo, Canada.<br> ³ Rutgers University, USA.<br>⁴ Microsoft Research, Canada. <br>⁵ RMIT University, Australia.<br>⁶ Leiden University, Netherlands.</p> -->
-
-<!-- **Abstract**. The field and community of Information Retrieval (IR) are changing and evolving in response to the latest developments and ad- vances in Artificial Intelligence (AI) and research culture. As the field and community re-oriented and re-consider its positioning within com- puting and information sciences more generally – it is timely to gather and discuss more seriously our field’s vision for the future – the chal- lenges and threats that the community and field faces – along with the bold new research questions and problems that are arising and emerging as we re-imagine search. This workshop aims to provide a forum for the IR community to voice and discuss their concerns and pitch proposals for building and strengthening the field and community. -->
-
-<!-- **Keywords**: Future of search · Information retrieval · Artificial intelli- gence. -->
 
 The field of Information Retrieval (IR) is undergoing a profound transformation, spurred by the continual evolution and breakthroughs in the realm of artificial intelligence and the broader changing research landscape. This reformation pe- riod finds our field and community in a state of introspection, as we contemplate and reevaluate our role and significance within the broader context of computing and information sciences. This juncture in our journey serves as an opportune moment to convene and engage in a deep and purposeful dialogue concerning the future trajectory of our field. We must collectively confront the myriad chal- lenges and potential threats that loom on the horizon, all while embracing the newfound opportunities and bold research inquiries that emerge as we embark on a re-imagined quest for the next generation “memex machine.
 
@@ -40,28 +34,13 @@ a course that not only safeguards IR’s continued relevance and vitality but al
 
 <!-- ​	<img src="1.jpg" style="width:80%;" /> -->
 
-## 4  Organisers
-
-<!-- To run the workshop, we have six organizers, five of whom can confirm that they will attend ECIR in person. Our organization team aims to bring together the IR Oldies with the up-and-coming stars in our field from industry, academia, and around the globe. -->
-
-<!-- ------
-
-<font size = 1><b>⁸ See https://en.wikipedia.org/wiki/List_of_unsolved_problems_in\_linguistics</b></font>
-
------- -->
-
-
+## Organisers
 
 **Leif Azzopardi**  University of Strathclyde
-
 **Charlie Clarke** University of Waterloo
-
 **Paul Kantor** University of Wisconsin Madison
-
 **Bhaskar Mitra** Microsoft Research 
-
 **Johanne Trippas** RMIT University
-
 **Zhaochun Ren** Leiden University
 
 
