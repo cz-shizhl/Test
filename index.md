@@ -16,7 +16,9 @@ In our pursuit of “search futures”, this workshop aims to provide the first 
 
 ## List of Topics
 
-  - Can IR further optimize workplace productivity?
+We would like to attract a broad range of positions about the future of search. Topics of interest may include, but are not limited to:
+
+- Can IR further optimize workplace productivity?
 - IR ethics, trust and responsibility
   - What is the duty/responsibility of an IR system?
   - If I want to see more, should the system give it to me?
