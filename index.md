@@ -3,7 +3,7 @@ layout: page
 description: ""
 ---
 
-## ECIR 2023
+## The Search Futures Workshop (ECIR2024)
 
 
 The field of Information Retrieval (IR) is undergoing a profound transformation, spurred by the continual evolution and breakthroughs in the realm of artificial intelligence and the broader changing research landscape. This reformation pe- riod finds our field and community in a state of introspection, as we contemplate and reevaluate our role and significance within the broader context of computing and information sciences. This juncture in our journey serves as an opportune moment to convene and engage in a deep and purposeful dialogue concerning the future trajectory of our field. We must collectively confront the myriad chal- lenges and potential threats that loom on the horizon, all while embracing the newfound opportunities and bold research inquiries that emerge as we embark on a re-imagined quest for the next generation “memex machine.
