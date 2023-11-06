@@ -19,17 +19,14 @@ In our pursuit of “search futures”, this workshop aims to provide the first 
 We would like to attract a broad range of positions about the future of search. Topics of interest may include, but are not limited to:
 
 - Can IR further optimize workplace productivity?
-- IR ethics, trust and responsibility
-  - What is the duty/responsibility of an IR system?
-  - If I want to see more, should the system give it to me?
-  - How can we trust IR systems if they make up everything?
-  - How environmentally responsible are the IR systems we are making?
-- IR and people, users, consumers, creators,..
-  - Are creators still needed in the age of generative AI?
-  - Is IR helping overcome the digital divide?
-  - Is IR addressing the disparity in information access, especially in marginalized communities?
-  - Should IR systems curate information for users to avoid information overload?
-  - What is the future of results presentation?
+- What is the duty/responsibility of an IR system?
+- If I want to see more, should the system give it to me?
+- How can we trust IR systems if they make up everything?
+- How environmentally responsible are the IR systems we are making?
+- Is IR helping overcome the digital divide?
+- Is IR addressing the disparity in information access, especially in marginalized communities?
+- Should IR systems curate information for users to avoid information overload?
+- What is the future of results presentation?
 
 
 <!-- ​	<img src="1.jpg" style="width:80%;" /> -->
