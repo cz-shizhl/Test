@@ -75,11 +75,7 @@ Short position statements from participants will be solicited through direct in-
 
 ## 3  Workshop Format and Structure
 
-We are proposing a full-day workshop. We will send out a call for speakers, rather than a call for papers. Participants will be asked to submit an abstract- only position statement outlining what issue/aspect/challenge they would like
-
-to put forward and potentially provide a talk during the ECIR workshop. These statements will also help anticipate and design our breakout sessions.7 The short
-
-statements will help make the process lightweight and accessible, attracting a wide variety of speakers supporting ECIR’s mission on diversity and inclusion.
+We are proposing a full-day workshop. We will send out a call for speakers, rather than a call for papers. Participants will be asked to submit an abstract- only position statement outlining what issue/aspect/challenge they would like to put forward and potentially provide a talk during the ECIR workshop. These statements will also help anticipate and design our breakout sessions.⁷The short statements will help make the process lightweight and accessible, attracting a wide variety of speakers supporting ECIR’s mission on diversity and inclusion.
 
 ------
 
