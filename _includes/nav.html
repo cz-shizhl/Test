@@ -29,7 +29,7 @@
                             {% if page.title == "The Search Futures Workshop (ECIR2024)" %}
                                 The Search Futures Workshop
                             {%else%}
-                                {% page.title %}
+                                {{ page.title }}
                     <li>
                         <a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
                     </li>
