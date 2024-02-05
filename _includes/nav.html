@@ -27,8 +27,7 @@
                     {%- for page in site.pages -%}
                         {%- if page.title -%}   
                                 <li>
-                                    {% capture url_len %} {{ page.url | size}}{% endcapture %}
-                                    <a href="{{ page.url | slice: 1,url_len-1 | prepend:'#'}}">{{ page.title }}</a>
+                                    <a href="{{ page.url | slice: 1, page.url.size | prepend:'#'}}">{{ page.title }}</a>
                                 </li>
                          {%- endif -%}
                     {%- endfor -%}
