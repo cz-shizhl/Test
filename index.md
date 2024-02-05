@@ -30,12 +30,12 @@ We would like to attract a broad range of positions about the future of search. 
 - 
 <a name='Schedule'>
 ## Schedule
-<\a>
+</a>
 <!-- ​	<img src="1.jpg" style="width:80%;" /> -->
 
 <a name='tag'>
 ## tag
-<\a>
+</a>a>
 
 ## Organisers
 
