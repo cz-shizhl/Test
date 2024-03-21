@@ -34,7 +34,7 @@ We would like to attract a broad range of positions about the future of search. 
 ## <a name='tag' style="color: inherit; text-decoration: none;">tag</a>
 
 | Event       |  Time  |
-| ------------ | :----------: |
+| :------------ | :---------- |
 | Welcome    |          |
 | Mini Talks |          |
 | Coffee     |          |
