@@ -6,7 +6,7 @@ email:
 description: ""
 keyword: ""
 url: "https://cz-shizhl.github.io/"              # your host, for absolute URL
-baseurl: "https://cz-shizhl.github.io/"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
