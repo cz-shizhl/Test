@@ -32,8 +32,9 @@ We would like to attract a broad range of positions about the future of search. 
 <!-- ​	<img src="1.jpg" style="width:80%;" /> -->
 
 ## <a name='tag' style="color: inherit; text-decoration: none;">tag</a>
-|Event       | Time |
-|------------|------|
+
+| Event       | Time |
+| ------------ | ------ |
 | Welcome    |      |
 | Mini Talks |      |
 | Coffee     |      |
