@@ -33,20 +33,16 @@ We would like to attract a broad range of positions about the future of search. 
 
 ## <a name='tag' style="color: inherit; text-decoration: none;">tag</a>
 
-<table>
-<thead>
-<tr>
-<th>foo</th>
-<th>bar</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>baz</td>
-<td>bim</td>
-</tr>
-</tbody>
-</table>
+| Event       | Time   |
+| ----------- | ------ |
+| Welcome     |        |
+| Mini Talks  |        |
+| Lunch       |        |
+| Break out   |        |
+| Coffee      |        |
+| Lunch       |        |
+| Discussion  |        |
+
 
 ## Organisers
 
